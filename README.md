@@ -84,3 +84,6 @@ README.md                  — project documentation
 - من هو ابن خلدون وما أبرز مؤلفاته؟
 - أين تقع إستونيا وما عاصمتها؟
 - ما هي مدينة عمان وما تاريخها؟
+## Run Sample 
+
+<img width="2527" height="1651" alt="ADEB87EF-A4EE-4D2B-AE46-310AF10CE0E2_1_201_a" src="https://github.com/user-attachments/assets/3801bc92-6c0c-4426-b049-475462d328d0" />
